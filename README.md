@@ -1,2 +1,2 @@
-# Aplikasi-Kampus
+# Aplikasi-Percetakan
 Dibuat dengan metode waterfall
